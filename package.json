@@ -1,0 +1,25 @@
+{
+  "name": "music-ministry",
+  "version": "1.0.0",
+  "description": "Program for the church",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deanda-1/music-ministry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deanda-1/music-ministry/issues"
+  },
+  "homepage": "https://github.com/Deanda-1/music-ministry#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
